@@ -1,7 +1,11 @@
-## Hi there 👋
+<h1>Nice to meet you, I'm Donovan! <br/><br/> <a>SEC+/IT Support/Security Analyst</a>
 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 <!--
-**DonCastro23/DonCastro23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
