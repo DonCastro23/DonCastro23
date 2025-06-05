@@ -4,6 +4,10 @@
 
 - <b>Active Directory</b>
   - [Windows Server Active Directory Lab](https://github.com/DonCastro23/active_directory)
+- <b>Penetration Testing Report</b>
+  - [OWASP Juice Shop Related To Real Client (Elysian Living)](https://github.com/DonCastro23/active_directory)
+- <b>Active Directory</b>
+  - [Windows Server Active Directory Lab](https://github.com/DonCastro23/active_directory)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
