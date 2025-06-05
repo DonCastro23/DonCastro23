@@ -5,7 +5,7 @@
 - <b>Active Directory</b>
   - [Windows Server Active Directory Lab](https://github.com/DonCastro23/active_directory)
 - <b>Web Application Penetration Testing</b>
-  - [OWASP Juice Shop (Elysian Living)](https://github.com/DonCastro23/active_directory)
+  - [OWASP Juice Shop (Elysian Living)](https://github.com/DonCastro23/pen_testing_report)
 - <b>Active Directory</b>
   - [Windows Server Active Directory Lab](https://github.com/DonCastro23/active_directory)
 <!--
