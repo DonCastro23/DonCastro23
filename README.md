@@ -6,8 +6,8 @@
   - [Windows Server Active Directory Lab](https://github.com/DonCastro23/active_directory)
 - <b>Web Application Penetration Testing</b>
   - [OWASP Juice Shop (Elysian Living)](https://github.com/DonCastro23/pen_testing_report)
-- <b>Active Directory</b>
-  - [Windows Server Active Directory Lab](https://github.com/DonCastro23/active_directory)
+- <b>Network Topology (Packet Tracer)</b>
+  - [Windows Server Active Directory Lab](https://github.com/DonCastro23/network_topology)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
