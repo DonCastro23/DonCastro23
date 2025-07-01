@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Security Automation Tool</b>
+  - [BreachBasket: Bash Script Automated Security Testing Toolkit](https://github.com/DonCastro23/security_automation_tool)
 - <b>Active Directory</b>
   - [Windows Server Active Directory Lab](https://github.com/DonCastro23/active_directory)
 - <b>Web Application Penetration Testing</b>
