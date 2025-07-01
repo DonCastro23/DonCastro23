@@ -11,7 +11,7 @@
 - <b>C++ Code Game</b>
   - [Rock Paper Scissors](https://github.com/DonCastro23/c-code)
 - <b>Corporate Proposal</b>
-  - [Fake Business (Namaste Taste) Network Infrastructure Proposal](https://github.com/DonCastro23/corporate_network_proposal)
+  - [Fake Business (Namaste Taste) Network Infrastructure Proposal](https://github.com/DonCastro23/corporate-network-proposal)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
